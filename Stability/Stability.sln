@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stability", "Stability\Stability.csproj", "{1B224E13-21FB-4813-BA81-2B9A85A03E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C7018EF1-81B7-4F6C-9663-7D66DC066E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B224E13-21FB-4813-BA81-2B9A85A03E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B224E13-21FB-4813-BA81-2B9A85A03E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B224E13-21FB-4813-BA81-2B9A85A03E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B224E13-21FB-4813-BA81-2B9A85A03E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7018EF1-81B7-4F6C-9663-7D66DC066E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7018EF1-81B7-4F6C-9663-7D66DC066E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7018EF1-81B7-4F6C-9663-7D66DC066E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7018EF1-81B7-4F6C-9663-7D66DC066E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
