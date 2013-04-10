@@ -51,7 +51,7 @@ namespace Stability
         {
             //first get the total and the new average
             var total = 0.0;
-            Samples.AsParallel().ForAll(s =>
+            Samples.ForEach(s =>
             {
                 total += s;
             });
